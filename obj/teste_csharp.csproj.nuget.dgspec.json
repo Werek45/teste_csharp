@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Werek\\Documents\\GuanabaraProjetos\\teste_csharp\\teste_csharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Werek\\Documents\\GuanabaraProjetos\\teste_csharp\\teste_csharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Werek\\Documents\\GuanabaraProjetos\\teste_csharp\\teste_csharp.csproj",
+        "projectName": "teste_csharp",
+        "projectPath": "C:\\Users\\Werek\\Documents\\GuanabaraProjetos\\teste_csharp\\teste_csharp.csproj",
+        "packagesPath": "C:\\Users\\Werek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Werek\\Documents\\GuanabaraProjetos\\teste_csharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Werek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
